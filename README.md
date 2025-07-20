@@ -13,15 +13,16 @@ The dataset includes the following fields:
 
 While simplified and anonymized, this data mimics a real emergency intake scenario.
 
-Download Hospital Emergency data sample []()
+Download Hospital Emergency data sample [here](https://github.com/datavitalyzer/DA4U-Powerbi-Emergency-Admissions-Report/blob/main/Hospital%20ER.csv)
 
 # Report Structure
 
 The report is divided into two key sections, both using filters for calendar date and admitting department to allow dynamic exploration.
 
-Section 1: Patient Overview
+Page 1: Patient Overview
 
-![Image](https://github.com/user-attachments/assets/1fac25f0-aa8b-4d9b-a459-1dd9d8053d7d)
+![Image](https://github.com/user-attachments/assets/7192be8d-2fbd-48b4-899c-88c6785f7660)
+
 
 This section provides a high-level view of all patients arriving at the emergency department. It includes:
 
@@ -32,9 +33,9 @@ This section provides a high-level view of all patients arriving at the emergenc
 
 This gives a sense of patient volume and how demand fluctuates over time.
 
-Section 2: Admission & Ventilation Focus
+Page 2: Admission & Ventilation Focus
 
-![Image](https://github.com/user-attachments/assets/b8ee152d-8dfd-4be9-a129-31add6701fbf)
+![Image](https://github.com/user-attachments/assets/773fc652-efae-48e1-992d-7aaf6d5240b4)
 
 This section narrows the focus to more clinical insights, particularly around admission timelines and ventilation needs. It includes:
 
