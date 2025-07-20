@@ -38,3 +38,5 @@ This section narrows the focus to more clinical insights, particularly around ad
     and other analytics your can discover in the report
 
 This section aims to give insight into patient urgency, delays before admission, and where critical care resources like ventilation are being used.
+
+You can browse the report online [powerbi-Emergency-Admissions-Report]([https://yourwebsite.com](https://app.fabric.microsoft.com/view?r=eyJrIjoiYTMwYzNmMmQtYTYwZC00YWI2LWIzZDItMzIyNzhmZTE5Y2MyIiwidCI6ImYzM2EwNzZmLWRkYmYtNDYyOC1hNzg2LWQ1NTRhNzAxYzg0NSIsImMiOjh9))
