@@ -13,7 +13,7 @@ The dataset includes the following fields:
 
 While simplified and anonymized, this data mimics a real emergency intake scenario.
 
-# Dataset Overview
+# Report Structure
 
 The report is divided into two key sections, both using filters for calendar date and admitting department to allow dynamic exploration.
 
@@ -22,20 +22,19 @@ Section 1: Patient Overview
 This section provides a high-level view of all patients arriving at the emergency department. It includes:
 
     Total patient count
-
+    List of patients details
     Patient distribution by day and time
-
     Filters to explore trends by date and department
 
 This gives a sense of patient volume and how demand fluctuates over time.
+
 Section 2: Admission & Ventilation Focus
 
 This section narrows the focus to more clinical insights, particularly around admission timelines and ventilation needs. It includes:
 
     Patient counts broken down by gender and admission status
-
     Visualization of patients seen within or over 30 minutes before the final admission decision
-
     Breakdown of ventilated patients by department, filtered by admission status
+    and other analytics your can discover in the report
 
 This section aims to give insight into patient urgency, delays before admission, and where critical care resources like ventilation are being used.
