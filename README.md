@@ -1,4 +1,4 @@
-# powerbi-Emergency-Admissions-Report
+# DA4U | Powerbi Emergency Admissions Report
 This Power BI report was built to explore and visualize emergency hospital admissions using a sample dataset. It’s a quick but structured report that shows how limited, realistic data can still reveal meaningful trends about patient flow, departmental workload, and admission timelines.
 
 # Dataset Overview
